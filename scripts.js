@@ -110,7 +110,7 @@ $(document).ready(function() { // wait for document to load before javascript in
         var $messages = $('.messages');
         var $formButton = $('#formbutton');
         $contactForm.submit(function(e) {
-        	e.preventDefault();
+        	//e.preventDefault();
         	$.ajax({
         		url: '//formspree.io/U4bX6R7zMGf9VuR4at5WcCCQapvbyvp2@martinredfern.co.uk',
         		method: 'POST',
