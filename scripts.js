@@ -112,7 +112,7 @@ $(document).ready(function() { // wait for document to load before javascript in
         $contactForm.submit(function(e) {
         	e.preventDefault();
         	$.ajax({
-        		url: '//formspree.io/U4bX6R7zMGf9VuR4at5WcCCQapvbyvp2@martinredfern.co.uk',
+        		url: '//formspree.io/formspree@runbox.com',
         		method: 'POST',
         		data: $(this).serialize(),
         		dataType: 'json',
