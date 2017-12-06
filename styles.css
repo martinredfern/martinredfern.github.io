@@ -12289,8 +12289,8 @@ footer a:active {
   margin: 1.25rem; }
 
 .uk-position-top-left {
-  top: 60px;
-  top: 3.75rem;
+  top: 80px;
+  top: 5rem;
   left: 20px;
   left: 1.25rem;
   margin-right: 20px;
@@ -12298,8 +12298,8 @@ footer a:active {
 
 @media (min-width: 640px) {
   .uk-position-top-left {
-    top: 80px;
-    top: 5rem;
+    top: 100px;
+    top: 6.25rem;
     left: 40px;
     left: 2.5rem;
     margin-right: 40px;
@@ -12307,8 +12307,8 @@ footer a:active {
 
 @media (min-width: 960px) {
   .uk-position-top-left {
-    top: 100px;
-    top: 6.25rem;
+    top: 120px;
+    top: 7.5rem;
     left: 60px;
     left: 3.75rem;
     margin-right: 60px;
@@ -12316,8 +12316,8 @@ footer a:active {
 
 @media (min-width: 1200px) {
   .uk-position-top-left {
-    top: 120px;
-    top: 7.5rem;
+    top: 140px;
+    top: 8.75rem;
     left: 80px;
     left: 5rem;
     margin-right: 80px;
@@ -12327,8 +12327,8 @@ footer a:active {
   height: 40px;
   height: 2.5rem;
   padding: 0;
-  margin: 20px 15px;
-  margin: 1.25rem 0.9375rem; }
+  margin: 20px 10px;
+  margin: 1.25rem 0.625rem; }
 
 .uk-slidenav svg {
   width: 22px;
