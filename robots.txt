@@ -1,6 +1,0 @@
-User-agent: *
-Allow: 
-Allow: 
-Disallow: 
-Disallow: 
-Sitemap: http://martinredfern.co.uk/sitemap.xml
