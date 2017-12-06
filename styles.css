@@ -12342,33 +12342,33 @@ footer a:active {
   padding: 1.25rem; }
 
 .uk-position-top-left > a > svg {
-  width: 48px;
-  width: 3rem;
-  height: 48px;
-  height: 3rem;
-  margin-top: 4px;
-  margin-top: 0.25rem; }
+  width: 30px;
+  width: 1.875rem;
+  height: 30px;
+  height: 1.875rem;
+  margin-top: 3px;
+  margin-top: 0.1875rem; }
 
 @media (min-width: 640px) {
   .uk-position-top-left > a > svg {
-    width: 56px;
-    width: 3.5rem;
-    height: 56px;
-    height: 3.5rem; } }
+    width: 36px;
+    width: 2.25rem;
+    height: 36px;
+    height: 2.25rem; } }
 
 @media (min-width: 960px) {
+  .uk-position-top-left > a > svg {
+    width: 48px;
+    width: 3rem;
+    height: 48px;
+    height: 3rem; } }
+
+@media (min-width: 1200px) {
   .uk-position-top-left > a > svg {
     width: 64px;
     width: 4rem;
     height: 64px;
     height: 4rem; } }
-
-@media (min-width: 1200px) {
-  .uk-position-top-left > a > svg {
-    width: 72px;
-    width: 4.5rem;
-    height: 72px;
-    height: 4.5rem; } }
 
 .uk-modal-full .uk-container {
   display: -webkit-box;
