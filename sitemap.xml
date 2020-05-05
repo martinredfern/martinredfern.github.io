@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <url>
+        
         <loc>https://martinredfern.co.uk/</loc>
-        <lastmod>2019-09-29T21:32:11.000Z</lastmod>
+    
+        
+        <lastmod>2020-05-05T14:53:22.000Z</lastmod>
+    
     </url>
 </urlset>
